@@ -46,7 +46,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/editText"
-        android:text="6039439488"
+        android:text="0000000000"
         android:hint="Enter Phone Number"
         android:phoneNumber="true"
         android:textColorHint="@android:color/darker_gray"
